@@ -1,0 +1,63 @@
+body{
+    background: black;
+    margin: 0 auto;
+    margin-top: 5px;
+
+}
+
+header{
+    text-align: center;
+    color: gray;
+    background: lightblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 8px;
+}
+
+nav{
+    text-align: center;
+    margin: 8px;
+    background: lightgray;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+a{
+    margin: 5px;
+}
+
+.london{
+    background: DarkKhaki;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 8px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+#budapest{
+    
+    background: GoldenRod;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 8px;
+}
+
+table{
+    background: blue;
+    color:white;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
+
+video{
+    height: 200px;
+}
+
